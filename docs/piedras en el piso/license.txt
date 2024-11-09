@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pic del Montgrí, MAC Girona
+* source:	https://sketchfab.com/3d-models/pic-del-montgri-mac-girona-615460fce97746f489397af25689f972
+* author:	Giravolt (https://sketchfab.com/giravolt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pic del Montgrí, MAC Girona" (https://sketchfab.com/3d-models/pic-del-montgri-mac-girona-615460fce97746f489397af25689f972) by Giravolt (https://sketchfab.com/giravolt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
